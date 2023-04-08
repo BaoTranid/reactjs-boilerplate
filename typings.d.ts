@@ -1,0 +1,7 @@
+declare module 'react-router-dom'
+declare module '@testing-library/react'
+declare module 'axios'
+declare module 'redux'
+declare module 'redux-thunk'
+declare module 'react-redux'
+declare module 'redux-axios-middleware'
